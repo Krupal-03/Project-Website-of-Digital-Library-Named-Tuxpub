@@ -2,7 +2,7 @@
 
 A comprehensive, full-stack web application designed to provide free, organized, and accessible educational and literary resources. TuxPub serves as a dynamic digital library where users can discover, download, and contribute books in PDF and EPUB formats.
 
-![TuxPub Banner](https://via.placeholder.com/1200x400?text=TuxPub+Digital+Library) <!-- Replace with actual banner image -->
+![TuxPub Logo](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SOURCE%20CODE/assets/images/logo.png)
 
 ## 🚀 Features
 
@@ -36,5 +36,5 @@ Follow these steps to set up the project locally:
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/tuxpub.git
+   git clone https://github.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub.git
    cd tuxpub
