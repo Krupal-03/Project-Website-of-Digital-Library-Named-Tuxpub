@@ -44,43 +44,44 @@ Follow these steps to set up the project locally:
 ### 🌐 User Interface
 
 #### Homepage
-![Homepage](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/homepage.png)
+![Homepage](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/homepage.png)<br>
 *Landing page with featured books, categories, and search functionality*
 
 #### Book Search
-![Search](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/search.png)
+![Search](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/search.png)<br>
 *Advanced search across titles, authors, and ISBN*
 
 #### Book Details
-![Book Details](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/book-details.png)
+![Book Details](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/book-details.png)<br>
 *Comprehensive book information with download options*
 
 #### Book Donation
-![Donation](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/donation-form.png)
+![Donation](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/donation-form.png)<br>
 *Multi-step form for users to contribute books*
 
 #### Mobile View
-![Mobile](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/mobile-home.png)
+![Mobile](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/mobile-home.png)<br>
 *Fully responsive mobile interface*
 
 ### ⚙️ Admin Panel
 
 #### Admin Dashboard
-![Dashboard](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/admin-dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/admin-dashboard.png)<br>
 *Centralized admin panel with statistics and charts*
 
 #### Books Management
-![Books Management](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/books-management.png)
+![Books Management](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/books-management.png)<br>
 *Complete CRUD operations for book management*
 
 #### Donations Approval
-![Donations](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/donations-approval.png)
+![Donations](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/donations-approval.png)<br>
 *Review and moderate user-donated books*
 
 #### Reviews Management
-![Reviews](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/reviews-management.png)
+![Reviews](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/reviews-management.png)<br>
 *Moderate user reviews and ratings*
 
 #### System Analytics
-![Analytics](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/analytics.png)
+![Analytics](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/analytics.png)<br>
+
 *Track download statistics and user activity*
