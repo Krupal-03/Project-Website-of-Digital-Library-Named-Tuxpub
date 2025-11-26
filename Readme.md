@@ -38,3 +38,25 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub.git
    cd tuxpub
+
+## 📸 Screenshots & Features
+
+### User Interface
+
+| Feature | Screenshot | Description |
+|---------|------------|-------------|
+| **Homepage** | ![Homepage](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/homepage.png) | Landing page with featured books, categories, and search functionality. Showcases latest additions and popular downloads. |
+| **Book Search** | ![Search](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/search.png) | Advanced search across titles, authors, and ISBN with real-time results and filtering options. |
+| **Book Details** | ![Book Details](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/book-details.png) | Comprehensive book information page with download button, ratings, reviews, and related books. |
+| **Book Donation** | ![Donation](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/donation-form.png) | Multi-step form for users to contribute books with file upload and metadata submission. |
+| **Mobile View** | ![Mobile](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/mobile-home.png) | Fully responsive design that adapts seamlessly to mobile and tablet devices. |
+
+### Admin Panel
+
+| Feature | Screenshot | Description |
+|---------|------------|-------------|
+| **Admin Dashboard** | ![Dashboard](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/admin-dashboard.png) | Centralized admin panel with statistics, charts, and quick access to all management features. |
+| **Books Management** | ![Books Management](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/books-management.png) | Complete CRUD operations for books - add, edit, delete, and manage book metadata and files. |
+| **Donations Approval** | ![Donations](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/donations-approval.png) | Review and moderate user-donated books with approve/reject functionality and status tracking. |
+| **Reviews Management** | ![Reviews](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/reviews-management.png) | Moderate user reviews and ratings with pending/approved status system. |
+| **System Analytics** | ![Analytics](https://raw.githubusercontent.com/Krupal-03/Project-Website-of-Digital-Library-Named-Tuxpub/main/SCREENSHOTS/analytics.png) | Track download statistics, user activity, and platform usage metrics. |
